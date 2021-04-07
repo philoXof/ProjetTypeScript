@@ -1,5 +1,7 @@
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
-var pokemon_1 = require("./pokemon");
-var poke1 = new pokemon_1.Pokemon("Salamèche", 42);
-console.log(poke1);
+// import {Pokemon} from "./pokemon";
+//
+// const poke1 = new Pokemon("Salamèche",42);
+// const poke2 = new Pokemon("Pikachu",42);
+// console.log(poke1);
+// console.log(poke2);
