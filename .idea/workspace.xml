@@ -3,6 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="5cffefd7-07e4-46bf-b57c-f81257a51d78" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack.test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/attack.test.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack.ts" beforeDir="false" afterPath="$PROJECT_DIR$/attack.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pokemon.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,20 +48,7 @@
       <recent name="C:\Users\Xof\Documents\GitHub\ProjetTypeScript\test" />
     </key>
   </component>
-  <component name="RunManager" selected="Jest.test qui attaque">
-    <configuration name="return poke1 attaque (1)" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
-      <node-interpreter value="project" />
-      <node-options value="" />
-      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
-      <working-dir value="$PROJECT_DIR$" />
-      <envs />
-      <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/attack.test.ts" />
-      <test-names>
-        <test-name value="return poke1 attaque" />
-      </test-names>
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="npm.build">
     <configuration name="test qui attaque" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
@@ -65,6 +59,20 @@
       <test-file value="$PROJECT_DIR$/attack.test.ts" />
       <test-names>
         <test-name value="test qui attaque" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="test qui attaque.poke1 attack poke2" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/attack.test.ts" />
+      <test-names>
+        <test-name value="test qui attaque" />
+        <test-name value="poke1 attack poke2" />
       </test-names>
       <method v="2" />
     </configuration>
@@ -104,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Jest.test qui attaque" />
         <item itemvalue="npm.build" />
+        <item itemvalue="Jest.test qui attaque" />
+        <item itemvalue="Jest.test qui attaque.poke1 attack poke2" />
         <item itemvalue="npm.test" />
         <item itemvalue="Jest.test qui attaque.return poke1" />
-        <item itemvalue="Jest.return poke1 attaque (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -122,6 +130,7 @@
       <updated>1617727378747</updated>
       <workItem from="1617727380609" duration="553000" />
       <workItem from="1617781015833" duration="13891000" />
+      <workItem from="1619790453715" duration="8688000" />
     </task>
     <servers />
   </component>
@@ -135,6 +144,10 @@
         <option value="$PROJECT_DIR$/attack.js" />
         <option value="$PROJECT_DIR$/attack.test.js" />
         <option value="$PROJECT_DIR$/attack.test.js" />
+        <option value="$PROJECT_DIR$/attack.test.js" />
+        <option value="$PROJECT_DIR$/pokemon.js" />
+        <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/attack.js" />
       </list>
     </option>
   </component>
